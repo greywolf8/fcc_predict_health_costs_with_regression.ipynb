@@ -7,3 +7,4 @@ Update changelog — 2025-04-19 19:44:29
 Improve log message format — 2025-04-21 22:38:00
 Fix typo in documentation — 2025-04-27 00:30:02
 Polish README formatting — 2025-07-12 08:52:57
+Add comment for clarity — 2025-09-21 09:52:15
